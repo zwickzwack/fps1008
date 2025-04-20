@@ -7,3 +7,5 @@ torch
 requests
 newsapi-python
 plotly
+yfinance
+nltk
