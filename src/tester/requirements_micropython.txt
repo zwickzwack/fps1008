@@ -1,0 +1,17 @@
+# MicroPython Dependencies for Pico Pi 2 W Tester
+
+# Hardware interface (built-in with MicroPython)
+# - machine
+# - gc
+# - time
+
+# OLED Display Driver (needs to be installed)
+# ssd1306.py - Download from: https://github.com/micropython/micropython/blob/master/drivers/display/ssd1306.py
+
+# Installation Instructions:
+# 1. Use Thonny IDE: Tools -> Manage packages -> Search "ssd1306"
+# 2. Or manually download ssd1306.py and upload to Pico
+# 3. Ensure MicroPython firmware is installed on Pico Pi 2 W
+
+# For development/testing on regular Python (simulation mode):
+# No additional packages required - will run with standard library
