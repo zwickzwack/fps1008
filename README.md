@@ -14,6 +14,11 @@ Dieses Projekt implementiert ein selbstlernendes KI-Modell zur Prognose der folg
 - Interaktives Dashboard zur Visualisierung von Prognosen
 - Selbstlernmechanismus zur kontinuierlichen Verbesserung
 
+## Zusätzliche Module
+
+### Pico Pi 2 W Tester (src/tester/)
+Ein modulares Test-Framework für Raspberry Pi Pico Pi 2 W mit OLED-Display-Unterstützung. Siehe [src/tester/README.md](src/tester/README.md) für Details.
+
 ## Installation
 
 1. Abhängigkeiten installieren:
